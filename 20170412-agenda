@@ -3,4 +3,24 @@ Wednesday April 12, 2017
 Agenda
 
 Check-in on code
-Goals before June 28
+Goals before June 28: search for items, add statements to items
+Wikidata integrator (WDI) https://github.com/SuLab/WikidataIntegrator
+
+
+
+Notes
+Attendees: Carl, Kenny, Kat
+
+Carl & Kenny will look into the path variable in the Flask container
+
+Carl will review WDI to see if switching is workable
+
+Carl & Kenny will go over strategies for coordinating our distributed team (issues, travis, writing tests)
+
+
+
+
+
+
+
+

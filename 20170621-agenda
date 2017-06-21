@@ -1,0 +1,15 @@
+
+Wednesday June 21, 2017
+
+Agenda
+
+1. dev update
+2. introduce SPARQL2-formatted queries: https://www.wikidata.org/wiki/User:YULdigitalpreservation/SPARQL2
+3. fun query related to OPF: http://tinyurl.com/y9x483dq
+
+Notes
+C purchased wikidp.org for our domain
+KT will wait for authentification URL before completing request for OAuth tokens
+K will review C's work and return by end of Friday 6/23
+C will merge PR over weekend
+KT will not be able to meet 6/28- we will touch base via slack and skype and email
